@@ -8,3 +8,4 @@ memory_profiler
 tensorflow
 tensorboard
 scikit-learn
+ntlk
