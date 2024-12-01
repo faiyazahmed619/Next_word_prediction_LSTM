@@ -8,4 +8,4 @@ memory_profiler
 tensorflow
 tensorboard
 scikit-learn
-ntlk
+nltk==3.9.0
